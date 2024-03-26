@@ -4,7 +4,8 @@ caso o numero seja maior que 50, o programa é encerrado.'''
 Lista = []
 while True:
     numero = int(input('digite uma numero: '))
-    if 0 < nota <= 50:
+    if 0 < numero35\
+            <= 50:
         Lista.append(numero)
     else:
         print('lista encerradaa!')
